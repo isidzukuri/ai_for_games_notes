@@ -6,7 +6,7 @@ by Ian Millington
 
 #### Contents
 
-- [Decision Making](./src/decision_making/REDME.MD)
+- [Decision Making](src/decision_making/REDME.MD)
 - [Learning](./src/learning/REDME.MD)
 - [Movement](./src/movement/REDME.MD)
 - [Pathfinding](./src/pathfinding/REDME.MD)
