@@ -8,6 +8,6 @@ by Ian Millington
 
 - [Decision Making](src/decision_making/README.MD)
 - [Learning](src/learning/README.MD)
-- [Movement](src/movement/README.MD)
+- [Movement](src/movement/)
 - [Pathfinding](src/pathfinding/README.MD)
 - [Tactical and Strategic AI](src/tactical_strategic/README.MD)
