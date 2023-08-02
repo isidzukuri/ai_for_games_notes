@@ -6,8 +6,8 @@ by Ian Millington
 
 #### Contents
 
-- [Decision Making](./decision_making/REDME.MD)
-- [Learning](./learning/REDME.MD)
-- [Movement](./movement/REDME.MD)
-- [Pathfinding](./pathfinding/REDME.MD)
-- [Tactical and Strategic AI](./tactical_strategic/REDME.MD)
+- [Decision Making](./src/decision_making/REDME.MD)
+- [Learning](./src/learning/REDME.MD)
+- [Movement](./src/movement/REDME.MD)
+- [Pathfinding](./src/pathfinding/REDME.MD)
+- [Tactical and Strategic AI](./src/tactical_strategic/REDME.MD)
